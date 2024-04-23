@@ -16,4 +16,9 @@ This dashboard provides insights into the impact of social media usage on mental
 - **Mental Health Surveys**: Self-reported mental health metrics from surveys and studies.
 - **External Datasets**: Additional datasets to enrich the analysis, if applicable.
 
+  #### DashBoard :
+
+  ![Screenshot 2024-04-20 132655](https://github.com/MariamMahm0ud/Social-Media-Impact-On-Mental-Health/assets/159249412/7ab13898-1941-4b1f-b8a0-ed6b3f26e002)
+
+
 
